@@ -15,6 +15,17 @@
 
 ## 설치
 
+### 방법 1 — `/plugin` 마켓플레이스 (권장, 한 줄 설치)
+
+Claude Code에서:
+
+```
+/plugin marketplace add koreanmozzi/youtube-thumbnail-maker
+/plugin install youtube-thumbnail-maker@koreanmozzi-skills
+```
+
+### 방법 2 — 클론 후 수동 복사
+
 ```bash
 # 1. 클론
 git clone https://github.com/koreanmozzi/youtube-thumbnail-maker.git

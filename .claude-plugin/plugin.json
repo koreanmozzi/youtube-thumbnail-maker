@@ -1,0 +1,13 @@
+{
+  "name": "youtube-thumbnail-maker",
+  "description": "다크 시네마틱 + 단일 상징 오브제 + 감정·사건 메타포 문법으로 유튜브 썸네일을 생성하는 Claude Code 스킬",
+  "version": "1.0.0",
+  "author": {
+    "name": "koreanmozzi",
+    "email": "kgh950512@gmail.com"
+  },
+  "license": "MIT",
+  "skills": [
+    "./skills/youtube-thumbnail-maker"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "koreanmozzi-skills",
+  "owner": {
+    "name": "koreanmozzi",
+    "email": "kgh950512@gmail.com"
+  },
+  "metadata": {
+    "description": "유튜브 콘텐츠 제작용 Claude Code 스킬 모음",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "youtube-thumbnail-maker",
+      "description": "다크 시네마틱 + 단일 상징 오브제 + 감정·사건 메타포 문법으로 유튜브 썸네일을 생성하는 스킬 (Higgsfield GPT Image 2)",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/youtube-thumbnail-maker"
+      ]
+    }
+  ]
+}
